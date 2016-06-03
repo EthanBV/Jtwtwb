@@ -1,0 +1,23 @@
+0  0  0  0  0  0  0  0 |
+0  2  2  2  1  7  2  0 |
+0  2  11 10 11 11 4  0 |
+0  2  1  11 11 2  2  0 |
+0  2  1  1 11 11  2  0 |
+0  2  2  2  2  2  2  0 |
+0  0  0  0  0  0  0  0 |
+%
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+
+%
+It's@a@bit@of@a@crowd@in@here! |
+To@bad@you@have@to@reach@the@door@in@one@turn@or@you@die! |
+And@you@can@only@move@one@space@per@turn...|
+You@really@could@use@a@bit@of@a@shove@in@the@right@direction...|
+%

@@ -1,0 +1,33 @@
+Chronological Order By Revalation
+
+AN - Animation
+EBS - Dialouge from the Emergency Broadcast Stystem
+PAS - Dialouge from the Personal Assistance System
+LET - Information Disclosed in a letter
+
+CAST
+
+CEO - CEO of #COMPNAME#
+PU1 - Parralel Universe Expert of #COMPNAME#.
+PU2 - Parralel Universe Expert of #COMPNAME# who advises against the project.
+SUB - Subject who discovered the activities of #COMPNAME# and was swiftly "incinerated".
+EP1 - Employee at #COMPNAME# who begins to doubt thier activities.
+EP2 - Employee at #COMPNAME@ who begins to doubt their activities after being convinced by EP2.
+
+Animations
+1. Character fiddling with daps and dials, fire roars up all around character.
+99. Fire consumes the Character who drops to the ground, PAS/CEO exits the building which colapses behind her.
+
+Letters
+LET - From: PU1 To: CEO, explains about success of project and advises to disregard PU2 and continue.
+LET - From: PU2 To: PU1, acusing them of Having alteriar motives.
+LET - From: PU2 To: CEO, explaining that PU1 is misgiuded and that the operation is not safe.
+LET - From: EP1 To: EP2, asking if they found anything suspicous and that they are begining to wonder what #COMPNAME# is doing.
+LET - From: PU2 To: CEO, saying a he found SUB sneaking around the comany premise, is preparing to release him.
+LET - From: PU1 To CEO, saying not to release the SUB for any reason.
+LET - From: CEO To PU2, saying to "incinerate" SUB.
+
+
+
+
+

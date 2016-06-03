@@ -1,0 +1,24 @@
+0  0  0  0  0  0  0 |
+0  0  0  7  1  1  0 |
+0  2  8  1  0  1  0 |
+0  2  8  1  0  1  0 |
+0  2  8  1  0  1  0 |
+0  0  0  10 1  1  0 |
+0  0  0  0  0  0  0 |
+%
+0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0 |
+0  0  0  0  0  0  0 |
+%
+Fire@fall, |
+burn@all, |
+even@walls, |
+your@a@doll. |
+The@point@is@that,@while@most@walls@in@this@building@are@made@of@metal, |
+some@are@still@wood, |
+and@they@burn. |
+%

@@ -1,0 +1,29 @@
+0  0  0  0  0  0  0  0 |
+0  10 1  1  1  14 1  0 |
+0  1  0  0  0  0  1  0 |
+0  1  0  0  0  0  1  0 |
+0  1  0  0  0  0  1  0 |
+0  1  0  0  0  0  1  0 |
+0  1  0  0  0  0  2  0 |
+0  1  1  7  0  0  0  0 |
+0  0  0  0  0  0  0  0 |
+%
+0  0  0  0  0  0  0  0 |
+0  0  0  0  0  10 0  0 |
+0  0  0  0  0  10 0  0 |
+0  0  0  0  0  10 0  0 |
+0  0  0  10 10 10 0  0 |
+0  0  0  10 0  0  0  0 |
+0  0  0  10 0  0  0  0 |
+0  0  0  10 0  0 0  0 |
+0  0  0  0  0  0  0  0 |
+%
+<EBS>EMERGENCY@CODE@374</EBS> |
+<EBS>Current@COMPOUND@STATUS:@HOT<EBS> | 
+<EBS>Current@SENTIENT@LIFEFORMS:@1<EBS> |
+<EBS>Unfortunetly@the@hazmat@removal@teams@were@unable@to@enter@the@building.</EBS> |
+<EBS>Most@likely@due@to@some@sort@of@obsticle,@such@as@fire.</EBS> |
+<EBS>Please@refer@to@you@PAS@for@guidence.</EBS> |
+I@can't@denay@I'm@a@litte@bit@glad@we@get@to@BLOW@MORE@STUFF@UP. |
+I@know,@I'm@so@helpful. |
+%

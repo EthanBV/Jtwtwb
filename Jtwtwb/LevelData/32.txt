@@ -1,0 +1,19 @@
+0  0  0  0  0  0  0  |
+0  0  0  6  0  0  0  |
+0  0  10 11 1  5  0  |
+0  6  1  2  11 6  0  |
+0  0  1  4  11 5  0  |
+0  0  0  7  0  0  0  |
+%
+0  0  0  0  0  0  0  |
+0  0  0  1  0  0  0  |
+0  0  0  0  0  1  0  |
+0  2  0  0  0  1  0  |
+0  0  0  0  0  2  0  |
+0  0  0  0  0  0  0  |
+%
+...|
+Why@does@this@floor@even@exist?|
+What@was@its@purpose?|
+Why@is@there@a@door@in@front@of@the@elevator?|
+%

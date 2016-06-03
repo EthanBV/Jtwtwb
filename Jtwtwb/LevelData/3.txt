@@ -1,0 +1,30 @@
+0 0 0 0  0 0 0 |
+0 0 0 2  0 0 0 |
+0 1 1 10 1 1 0 |
+0 1 0 0  0 1 0 |
+0 4 0 0  0 1 0 |
+0 1 0 0  0 1 0 |
+0 1 1 7  1 1 0 |
+0 0 0 0  0 0 0 |
+%
+0 0 0 0  0 0 0 |
+0 0 0 0  0 0 0 |
+0 0 0 0  0 0 0 |
+0 0 0 0  0 0 0 |
+0 0 0 0  0 0 0 |
+0 0 0 0  0 0 0 |
+0 0 0 0  0 0 0 |
+0 0 0 0  0 0 0 |
+%
+Sometimes@there@are@doorways, |
+Sometimes@this@is@bad. |
+Your@probably@wondering@who@I@am... |
+Yes? |
+I@am@your@PAS@or@Personal@Assisance@System. |
+Im@here@to@save@your@life. |
+And@guide@you@to@the@nearest@Exit. |
+Which@is@aproxamatly@96@floors@below@us. |
+That@may@seem@like@a@long@ways... |
+But@so@far@I'm@2/2... |
+So@you@can@trust@me! |
+%

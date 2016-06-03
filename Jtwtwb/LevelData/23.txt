@@ -1,0 +1,24 @@
+0  0  0  0  0  0  0 |
+0  10 1  1  5  11 0 |
+0  1  1  1  0  1  0 |
+0  1  1  1  0  2  0 |
+0  1  1  1  1  2  0 |
+0  1  1  1  1  2  0 |
+0  7  1  6  0  0  0 |
+0  0  0  0  0  0  0 |
+%
+0  0  0  0  0  0  0 |
+0  0  10 0  1  0  0 |
+0  0  10 0  0  0  0 |
+0  0  10 0  0  0  0 |
+0  0  10 0  0  0  0 |
+0  0  10 0  0  0  0 |
+0  0  10 1  0  0  0 |
+0  0  0  0  0  0  0 |
+
+%
+Who@left@all@this@hazardous@material@around@anyway? |
+I@mean,@who@needs@gallons@of@explosives? |
+Seems@vary@dangerious! |
+Some@people@just@want@to@watch@the@world@burn. |
+%

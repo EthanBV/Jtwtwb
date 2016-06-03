@@ -1,0 +1,11 @@
+Fire
+Doors
+Water
+Rescue Bots
+Pushing
+HazMat
+Burnable Walls
+Unburnable Tiles
+Drains
+Teleporters
+Resistance Bots
