@@ -1,0 +1,25 @@
+0  0  0  0  0  0 |
+0  7  2  1  1  0 |
+0  1  0  0  1  0 |
+0  1  1  1  1  0 |
+0  10 0  0  0  0 |
+0  0  0  0  0  0 |
+%
+0  0  0  0  0  0 |
+0  0  0  0  10  0 |
+0  0  0  0  10  0 |
+0  10  10  10  10  0 |
+0  0  0  0  0  0 |
+0  0  0  0  0  0 |
+%
+<EBS>EMERGENCY@CODE@374</EBS> |
+<EBS>Current@COMPOUND@STATUS:@RED<EBS> | 
+<EBS>Current@SENTIENT@LIFEFORMS:@1<EBS> |
+<EBS>IN@COMPLIENCE@WITH@373:302@teams@are@being@deployed@to@remove@hazmat@from@the@building.</EBS> |
+Hmmmmm... |
+Where@are@they? |
+Well...@untill@they@show@up... |
+I@guess@we@fend@for@ourselves.@
+Be@careful. |
+HazMat@is@known@to@cause@chain@reactions. |
+%

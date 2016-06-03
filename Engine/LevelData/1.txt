@@ -1,0 +1,25 @@
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 7 1 1 1 10 0 |
+0 0 0 1 0 0  0 |
+0 0 0 1 0 0  0 |
+0 0 0 2 0 0  0 |
+0 0 0 0 0 0  0 |
+%
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+%
+<EBS>EMERGENCY@CODE@373</EBS> |
+<EBS>Current@Compound@Status:@YELLOW</EBS> |
+<EBS>Current@Sentient@Lifeforms:@1</EBS> |
+<EBS>IN@COMPLIENCE@WITH@373:17@all@employies@are@to@proceed@to@the@nearest@exit@as@guieded@by@their@Personal@Assisance@System</EBS> |
+... |
+Hello@There, |
+You@seem@to@be@in@a@bit@of@a@pickle. |
+It@might@be@a@good@Idea@If@you@made@it@to@the@elevator@BEFORE@that@fire@consumes@you... |
+%

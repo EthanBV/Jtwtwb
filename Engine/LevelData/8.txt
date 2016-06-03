@@ -1,0 +1,29 @@
+0 0 0 0  0 0  0 |
+0 0 0 2  0 0  0 |
+0 0 0 1  0 0  0 |
+0 0 0 11 0 0  0 |
+0 7 1 4  1 10 0 |
+0 0 0 0  0 0  0 |
+0 0 0 0  0 0  0 |
+%
+0 0 0 0  0 0  0 |
+0 0 0 0  0 0  0 |
+0 0 0 0  0 0  0 |
+0 0 0 0  0 0  0 |
+0 0 0 0  0 0  0 |
+0 0 0 0  0 0  0 |
+0 0 0 0  0 0  0 |
+%
+<EBS>EMERGENCY@CODE@374</EBS> |
+<EBS>Current@COMPOUND@STATUS:@ORANGE<EBS> | 
+<EBS>Current@SENTIENT@LIFEFORMS:@1<EBS> |
+<EBS>IN@COMPLIENCE@WITH@373:9@Rescue@Bots@are@being@deployed@to@help@navigate@employies@to@safety.</EBS> |
+<EBS>Refer@to@your@Personal@Assisance@System@for@more@information<EBS> |
+This@little@guy@is@a@RB@or@Rescue@Bot. |
+But@I@guess@you@figured@that@out... |
+Their@job@is@to@help@you@get@to@safety. |
+They@dont@always@make@it@to@safety@themselves. |
+Personaly@I@dont@see@him@getting@out@of@this@one... |
+But@thats@OK. |
+Sometimes@we@have@to@make@sacrifices. |
+%

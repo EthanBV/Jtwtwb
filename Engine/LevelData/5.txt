@@ -1,0 +1,21 @@
+0 0 0 0 0 0  0 |
+0 5 1 1 1 10 0 |
+0 0 0 0 0 1  0 |
+0 0 2 1 1 4  0 |
+0 0 0 6 0 1  0 |
+0 0 0 0 0 7  0 |
+0 0 0 0 0 0  0 |
+%   
+0 0 0 0 0 0  0 |
+0 1 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 1 0 0  0 |
+0 0 0 0 0 0  0 |
+0 0 0 0 0 0  0 |
+%
+Some@there@are@doorways... |
+Sometimes@this@is@good. |
+Sometimes@PAS@enjoy@talking@in@mysterious@ways@in@order@to@appear@as@higher@beings, |
+its@hard@not@to@take@advantage@of@being@a@voice@in@somebody's@head. |
+%    
